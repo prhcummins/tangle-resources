@@ -9,6 +9,6 @@ A collection of resources for Tangle
 
 ## Similar
 
-[Observable](Interactive notebooks with data)
+[Observable](https://observablehq.com/): Interactive notebooks with data
 
-[Ractive](Transform templates into interactive apps)
+[Ractive](https://ractive.js.org/): Transform templates into interactive apps
