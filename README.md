@@ -6,3 +6,9 @@ A collection of resources for Tangle
 [react-tangle](https://github.com/tmcw/react-tangle): A tangle.js-style numeric input for React.js
 
 [Entangle](https://github.com/rexgarland/Entangle): Tangle.js documents in markdown
+
+## Similar
+
+[Observable](Interactive notebooks with data]
+
+[Ractive](Transform templates into interactive apps)
